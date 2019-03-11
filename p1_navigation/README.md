@@ -60,4 +60,4 @@ pip install .
 
 ### Instructions
 
-Follow the file in `Navigation.ipynb` to follow how the agent was trained.
+Follow the file `Navigation.ipynb` to see how the agent was trained.
